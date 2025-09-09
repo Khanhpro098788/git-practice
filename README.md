@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Vo Van Khanh , 223364 .
+Đây là README từ nhánh main.
